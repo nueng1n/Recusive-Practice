@@ -1,0 +1,25 @@
+{
+    "keyA":"key a",
+    "keyB":"key b",
+    "keyC":{
+        "KeyC1":"key c 1",
+        "keyC2":"key c 2",
+        "keyC3":{
+            "keyC31":"key c 3 1"
+        },
+        "keyC4":[
+            {
+                "keyC41":"<<set_value>>",
+                "keyC42":"key c 4 2"
+            },
+            {
+                "keyC43":[
+                    {
+                        "keyC431":"key c 4 3 1",
+                        "keyC432":"<<set_value>> .. <<set_value>>"
+                    }
+                ]
+            }
+        ]
+    }
+}
