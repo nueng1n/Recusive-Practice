@@ -7,4 +7,5 @@
 <em>ตัวอย่างข้อมูลที่ต้องการมีการเพิ่ม distributions key</em>
 <img width="608" alt="after" src="https://user-images.githubusercontent.com/115057360/198202391-cbc7e710-9173-4246-8684-b45fd68c2f61.PNG">
 
-RUN => node index.js
+`RUN => node index.js`
+
