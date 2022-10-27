@@ -1,0 +1,74 @@
+[
+    {
+        "_id": "2bcc2326-a4c4-45eb-acf4-68fc547096a4",
+        "detail": {
+            "distribution_name": "Debian",
+            "distribution_key": "debian",
+            "fork_form": ""  
+        }
+    },
+    {
+        "_id": "c1f48785-d303-4877-963c-abb214291efd",
+        "detail": {
+            "distribution_name": "Slackware",
+            "distribution_key": "slackware",
+            "fork_form": ""  
+        }
+    },
+    {
+        "_id": "66e5a347-01fd-46cc-aae8-9a315c6ab2ea",
+        "detail": {
+            "distribution_name": "Red Hat",
+            "distribution_key": "redhat",
+            "fork_form": ""  
+        }
+    },
+    {
+        "_id": "3c10557d-6151-4b50-a832-3e690a6d941b",
+        "detail": {
+            "distribution_name": "Arch Linux",
+            "distribution_key": "archlinux",
+            "fork_form": ""  
+        }
+    },
+    {
+        "_id": "cfcb8cb5-e50a-41c8-91a9-929ccf58ee5b",
+        "detail": {
+            "distribution_name": "Ubuntu",
+            "distribution_key": "ubuntu",
+            "fork_form": "debian"  
+        }
+    },
+    {
+        "_id": "642b9f47-95bb-40ba-9879-0c3ea88eb615",
+        "detail": {
+            "distribution_name": "Pop!_OS",
+            "distribution_key": "pop_os",
+            "fork_form": "debian"  
+        }
+    },
+    {
+        "_id": "a7fb3133-42ae-444a-ac64-7db9cd2e8ae0",
+        "detail": {
+            "distribution_name": "Linux Mint",
+            "distribution_key": "linux_mint",
+            "fork_form": "ubuntu"  
+        }
+    },
+    {
+        "_id": "a25f00c6-d35d-46fa-af9f-b5f0059cee30",
+        "detail": {
+            "distribution_name": "Manjaro",
+            "distribution_key": "manjaro",
+            "fork_form": "archlinux"  
+        }
+    },
+    {
+        "_id": "0c409255-36fb-4acb-af94-9276d2ef5482",
+        "detail": {
+            "distribution_name": "Rocky Linux",
+            "distribution_key": "rocky_linux",
+            "fork_form": "redhat"  
+        }
+    }
+]

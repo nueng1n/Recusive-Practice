@@ -1,0 +1,1 @@
+เป็นการหา Linux Distribution จาก JSON ไฟล์ 
