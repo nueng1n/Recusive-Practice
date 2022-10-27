@@ -1,0 +1,1 @@
+ใช้ SQL CTE สำหรับการ RECUSIVE
